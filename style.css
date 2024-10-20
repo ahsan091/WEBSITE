@@ -155,7 +155,7 @@ body {
 }
 
 .container p span.typed-text {
-    font-weight: normal;
+    font-weight: bolder;
     color: greenyellow;
 }
 
